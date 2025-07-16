@@ -1,0 +1,28 @@
+\\10.0.0.111\Bento\C#\CursoCSharp\bin\Debug\net8.0\CursoCSharp.exe
+\\10.0.0.111\Bento\C#\CursoCSharp\bin\Debug\net8.0\CursoCSharp.deps.json
+\\10.0.0.111\Bento\C#\CursoCSharp\bin\Debug\net8.0\CursoCSharp.runtimeconfig.json
+\\10.0.0.111\Bento\C#\CursoCSharp\bin\Debug\net8.0\CursoCSharp.dll
+\\10.0.0.111\Bento\C#\CursoCSharp\bin\Debug\net8.0\CursoCSharp.pdb
+\\10.0.0.111\Bento\C#\CursoCSharp\obj\Debug\net8.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+\\10.0.0.111\Bento\C#\CursoCSharp\obj\Debug\net8.0\CursoCSharp.AssemblyInfoInputs.cache
+\\10.0.0.111\Bento\C#\CursoCSharp\obj\Debug\net8.0\CursoCSharp.AssemblyInfo.cs
+\\10.0.0.111\Bento\C#\CursoCSharp\obj\Debug\net8.0\CursoCSharp.csproj.CoreCompileInputs.cache
+\\10.0.0.111\Bento\C#\CursoCSharp\obj\Debug\net8.0\CursoCSharp.dll
+\\10.0.0.111\Bento\C#\CursoCSharp\obj\Debug\net8.0\refint\CursoCSharp.dll
+\\10.0.0.111\Bento\C#\CursoCSharp\obj\Debug\net8.0\CursoCSharp.pdb
+\\10.0.0.111\Bento\C#\CursoCSharp\obj\Debug\net8.0\CursoCSharp.genruntimeconfig.cache
+\\10.0.0.111\Bento\C#\CursoCSharp\obj\Debug\net8.0\ref\CursoCSharp.dll
+\\10.0.0.111\Bento\C#\CursoCSharp - Udemy\bin\Debug\net8.0\CursoCSharp.exe
+\\10.0.0.111\Bento\C#\CursoCSharp - Udemy\bin\Debug\net8.0\CursoCSharp.deps.json
+\\10.0.0.111\Bento\C#\CursoCSharp - Udemy\bin\Debug\net8.0\CursoCSharp.runtimeconfig.json
+\\10.0.0.111\Bento\C#\CursoCSharp - Udemy\bin\Debug\net8.0\CursoCSharp.dll
+\\10.0.0.111\Bento\C#\CursoCSharp - Udemy\bin\Debug\net8.0\CursoCSharp.pdb
+\\10.0.0.111\Bento\C#\CursoCSharp - Udemy\obj\Debug\net8.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+\\10.0.0.111\Bento\C#\CursoCSharp - Udemy\obj\Debug\net8.0\CursoCSharp.AssemblyInfoInputs.cache
+\\10.0.0.111\Bento\C#\CursoCSharp - Udemy\obj\Debug\net8.0\CursoCSharp.AssemblyInfo.cs
+\\10.0.0.111\Bento\C#\CursoCSharp - Udemy\obj\Debug\net8.0\CursoCSharp.csproj.CoreCompileInputs.cache
+\\10.0.0.111\Bento\C#\CursoCSharp - Udemy\obj\Debug\net8.0\CursoCSharp.dll
+\\10.0.0.111\Bento\C#\CursoCSharp - Udemy\obj\Debug\net8.0\refint\CursoCSharp.dll
+\\10.0.0.111\Bento\C#\CursoCSharp - Udemy\obj\Debug\net8.0\CursoCSharp.pdb
+\\10.0.0.111\Bento\C#\CursoCSharp - Udemy\obj\Debug\net8.0\CursoCSharp.genruntimeconfig.cache
+\\10.0.0.111\Bento\C#\CursoCSharp - Udemy\obj\Debug\net8.0\ref\CursoCSharp.dll

@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = CursoCSharp
+build_property.ProjectDir = \\10.0.0.111\Bento\C#\CursoCSharp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
