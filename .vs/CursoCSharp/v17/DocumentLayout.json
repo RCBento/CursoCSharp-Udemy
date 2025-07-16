@@ -1,12 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "\\\\10.0.0.111\\Bento\\C#\\CursoCSharp - Udemy\\",
+  "WorkspaceRootPath": "\\\\10.0.0.111\\Bento\\C#\\CursoCSharp-Udemy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59075436-4823-4645-81BC-1969AF007952}|CursoCSharp.csproj|\\\\10.0.0.111\\bento\\c#\\cursocsharp - udemy\\estruturasdecontrole\\estruturaswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59075436-4823-4645-81BC-1969AF007952}|CursoCSharp.csproj|\\\\10.0.0.111\\bento\\c#\\cursocsharp-udemy\\estruturasdecontrole\\usandocontinue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59075436-4823-4645-81BC-1969AF007952}|CursoCSharp.csproj|\\\\10.0.0.111\\bento\\c#\\cursocsharp - udemy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59075436-4823-4645-81BC-1969AF007952}|CursoCSharp.csproj|\\\\10.0.0.111\\bento\\c#\\cursocsharp-udemy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,27 +22,27 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "\\\\10.0.0.111\\Bento\\C#\\CursoCSharp - Udemy\\Program.cs",
+              "DocumentMoniker": "\\\\10.0.0.111\\Bento\\C#\\CursoCSharp-Udemy\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "\\\\10.0.0.111\\Bento\\C#\\CursoCSharp - Udemy\\Program.cs",
+              "ToolTip": "\\\\10.0.0.111\\Bento\\C#\\CursoCSharp-Udemy\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T01:13:27.265Z",
+              "WhenOpened": "2025-07-16T14:52:54.834Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EstruturaSwitch.cs",
-              "DocumentMoniker": "\\\\10.0.0.111\\Bento\\C#\\CursoCSharp - Udemy\\EstruturasDeControle\\EstruturaSwitch.cs",
-              "RelativeDocumentMoniker": "EstruturasDeControle\\EstruturaSwitch.cs",
-              "ToolTip": "\\\\10.0.0.111\\Bento\\C#\\CursoCSharp - Udemy\\EstruturasDeControle\\EstruturaSwitch.cs",
-              "RelativeToolTip": "EstruturasDeControle\\EstruturaSwitch.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAA2AAAAAAAAAA==",
+              "Title": "UsandoContinue.cs",
+              "DocumentMoniker": "\\\\10.0.0.111\\Bento\\C#\\CursoCSharp-Udemy\\EstruturasDeControle\\UsandoContinue.cs",
+              "RelativeDocumentMoniker": "EstruturasDeControle\\UsandoContinue.cs",
+              "ToolTip": "\\\\10.0.0.111\\Bento\\C#\\CursoCSharp-Udemy\\EstruturasDeControle\\UsandoContinue.cs",
+              "RelativeToolTip": "EstruturasDeControle\\UsandoContinue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T13:56:10.654Z",
+              "WhenOpened": "2025-07-16T16:51:27.698Z",
               "EditorCaption": ""
             }
           ]
